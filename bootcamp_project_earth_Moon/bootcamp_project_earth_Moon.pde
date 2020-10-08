@@ -5,6 +5,7 @@ void setup()
   size(1000, 730, P3D);
   radius = 200;
   numberPoints = 10;
+  strokeWeight(3);
 }
 void draw()
 {
